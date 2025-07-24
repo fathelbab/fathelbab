@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Hi, I’m <strong>Fathelbab</strong></h1>
 <h3 align="center">💻 Software Engineer | Polyglot: C/C++ • JS/TS • Node • React • Rails</h3>
 
@@ -96,4 +95,3 @@
 ---
 
 <sub>Crafted with ❤️ and code by Fathelbab</sub>
-```
