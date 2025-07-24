@@ -2,9 +2,11 @@
 <h3 align="center">💻 Software Engineer | Polyglot: C/C++ • JS/TS • Node • React • Rails</h3>
 
 <p align="center">
+  
   <a href="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fathelbab&theme=dark&no-bg=true" alt="Trophies" />
   </a>
