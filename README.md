@@ -1,25 +1,24 @@
----
+```markdown
+<h1 align="center">👋 Hi, I’m <strong>Fathelbab</strong></h1>
+<h3 align="center">💻 Software Engineer | Polyglot: C/C++ • JS/TS • Node • React • Rails</h3>
+
 <p align="center">
-  <h1>👋 Hi, I’m <strong>Fathelbab</strong></h1>
-  <h3>💻 Software Engineer : C/C++ • JS/TS • Node • React • Ruby/Rails • Python</h3>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat">
-      <img src="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=fathelbab&theme=dark&no-bg=true" alt="Trophies" />
-    </a>
-  </p>
+  <a href="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=fathelbab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fathelbab&theme=dark&no-bg=true" alt="Trophies" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Education & Passion:** Turning ☕️ into code for over 9 years, with a background in Computer Engineering.
-- 🔭 **I’m currently working on:** High-performance scalable web apps with React & Node.js & Rails.
-- 🌱 **Learning:** Quantum Computing fundamentals, advanced Physics, and algorithmic optimization.
-- 📫 **Reach me at:** [fathelbabmohamed94@gmail.com](mailto:fathelbabmohamed94@gmail.com)
+- 🎓 **Education & Passion:** Turning ☕️ into code for over 9 years, with a background in Computer Engineering.  
+- 🔭 **I’m currently working on:** High‑performance scalable web apps with React, Node.js & Rails.  
+- 🌱 **Learning:** Quantum Computing fundamentals, advanced Physics, and algorithmic optimization.  
+- 📫 **Reach me at:** [fathelbabmohamed94@gmail.com](mailto:fathelbabmohamed94@gmail.com)  
 - ⚡ **Fun Fact:** A single qubit can exist in a superposition of both 0 and 1—so n qubits represent 2ⁿ states simultaneously!
 
 ---
@@ -45,7 +44,7 @@
   <a href="https://codeforces.com/profile/fathelbab" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30"/>
   </a>
-  <a href="https://www.leetcode.com/fathelbabmohamed94" target="_blank">
+  <a href="https://leetcode.com/fathelbabmohamed94" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
@@ -57,12 +56,12 @@
 <details>
 <summary><strong>Languages & Frameworks</strong></summary>
 
-| Language                 | Experience  | Framework/Library         |
-| ------------------------ | ----------- | ------------------------- |
-| C / C++                  | ★★★☆☆       | STL, Boost                |
-| JavaScript / TypeScript  | ★★★★★       | Node.js, React, Next.js   |
-| Ruby                     | ★★★★★       | Ruby on Rails             |
-| Python                   | ★★★★★       | Pandas, PyTorch, TensorFlow |
+| Language                  | Experience  | Framework / Library         |
+| ------------------------- | ----------- | --------------------------- |
+| C / C++                   | ★★★☆☆       | STL, Boost                  |
+| JavaScript / TypeScript   | ★★★★★       | Node.js, React, Next.js     |
+| Ruby                      | ★★★★★       | Ruby on Rails               |
+| Python                    | ★★★★★       | Pandas, PyTorch, TensorFlow |
 </details>
 
 <details>
@@ -97,3 +96,4 @@
 ---
 
 <sub>Crafted with ❤️ and code by Fathelbab</sub>
+```
